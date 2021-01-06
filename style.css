@@ -1,0 +1,124 @@
+body{
+    margin: 0px;
+    
+    font-family: 'Roboto', sans-serif;
+
+}
+ul{
+    /* height: 10px; */
+    list-style: none;
+    text-align: ri;
+    color:#3C3C3C;
+    
+}
+li a{
+    
+    float: left;
+    display: inline-block;
+    text-decoration: none;
+    text-align: right;
+    padding: 10px 
+    
+    
+    
+}
+.nav-bar{
+    align-items: rigth;
+    
+    padding-bottom: 5%;
+}
+h1{
+    font-family: 'Bebas Neue', cursive;
+    font-size: 80px;
+    color: #363958;
+
+}
+p{
+    color:#3C3C3C;
+}
+.tomato-highlight{
+    color: #FF8367;
+
+}
+.half-width{
+    width: 30%;
+    float: left;
+    margin-left: 10%;
+    padding-left: 4%;
+
+}
+.headar{
+    height: 500px;
+    padding-bottom: 100px;
+}
+.half-width img{
+    width: 100%;
+}
+.link-batton{
+    padding: 15px 30px;
+    border-radius: 5px;
+    background-image: linear-gradient(#FF8063,#F46060);
+    text-decoration: none;
+    color: #ffff;
+    font-size: 14px;
+}
+/* start about section */
+h2{
+    font-size: 48px;
+    font-family: 'Bebas Neue', cursive;
+    color: #363958;
+}
+.about{
+    height: 300px;
+    padding-bottom: 100px;
+}
+/* end about section */
+/* start work section */
+#text-align{
+    text-align: center;
+}
+h3{
+    font-size: 30px;
+}
+.workstyle{
+    
+    border-radius: 5px;
+    
+    width: 30%;
+    float: left;
+    margin-left: 2%;
+    padding-left: 1%;
+
+}
+.workstyle img{
+    width: 100%;
+}
+.work{
+    height: 700px;
+    padding-bottom: 100px;
+}
+.Contact{
+    height: 300px;
+}
+.contact-div{
+    width: 20%;
+    float: left;
+    padding: 20px 50px;
+    margin-left: 15%;
+    background-image: url("images/Group_33094_1.png");
+    background-repeat: no-repeat;
+    
+    
+}
+.email{
+    font-size: 15px;
+    font-family: 'Bebas Neue', cursive;
+    text-align: center;
+}
+#aline{
+    font-family: 'Roboto', sans-serif;
+    font-size: 25px;
+}
+#socile-icon{
+    align-content: center;
+}
